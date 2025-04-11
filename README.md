@@ -1,5 +1,5 @@
 # docker-practice
-UdemyでのDocker 基礎学習
+This repository contains my Docker practice based on Udemy lessons.
 
 ## Contents
 -
